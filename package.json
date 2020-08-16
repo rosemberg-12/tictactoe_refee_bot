@@ -1,0 +1,16 @@
+{
+  "name": "tictactoe_referee_bot",
+  "version": "1.0.0",
+  "description": "Referee telegram bot",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Rosemberg Porras",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
