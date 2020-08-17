@@ -1,13 +1,14 @@
-# Referee bot for Instagram
+# Referee bot for Telegram
 
 Bot created using https://github.com/yagop/node-telegram-bot-ap with the purpose to create a referee which will manage a tic tac toe game between other 2 bots
+By the moment only have an example about poll creation
+
 
 ### Prerequisites
 
 * Nodejs v10.21.0
 * NPM 6.x
 * nodemon for development
-
 
 ### Installing
 
@@ -23,8 +24,6 @@ Bot created using https://github.com/yagop/node-telegram-bot-ap with the purpose
   npm run start
   ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
 Not test by the moment
@@ -39,4 +38,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
