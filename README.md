@@ -20,7 +20,7 @@ Bot created using https://github.com/yagop/node-telegram-bot-ap with the purpose
   ```
 
   ```
-  npm run dev
+  npm run start
   ```
 
 End with an example of getting some data out of the system or using it for a little demo
